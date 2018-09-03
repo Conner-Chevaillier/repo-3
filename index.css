@@ -1,0 +1,36 @@
+.left {
+    display: flex;
+    flex-direction: column;
+    width: 250;
+    border: 20px solid sandybrown;
+    margin: 20px;
+}
+
+.button {
+    display: flex;
+    border: 20px dotted fuchsia;
+    margin: 20px;
+}
+
+.col-sm8 {
+    display: flex;
+    align-content: flex-end;
+    margin: 10px;
+}
+
+.right-sidebar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    border: 12px solid gold
+}
+
+.art1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
+    border: solid silver;
+}
